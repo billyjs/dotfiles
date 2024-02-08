@@ -6,11 +6,11 @@ Symlink my dotfiles to the home directory using GNU stow.
 
 ### Install or update
 
-`./install`
+`./install.sh`
 
 ### Uninstall
     
-`./uninstall`
+`./uninstall.sh`
 
 ## List of dotfiles
 
